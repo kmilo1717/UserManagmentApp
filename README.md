@@ -16,6 +16,7 @@ git clone https://github.com/kmilo1717/UserManagmentApp.git
 cd UserManagmentApp/
 ```
 
+En tu SSMS, conectate y ejecuta el script que se encuentra en el proyecto como: user_managment_db.sql
 
 ### Instalacion de dependencias
 
